@@ -1,4 +1,4 @@
-### Hi there, I'm [Thomas Plantin] [https://lucid-minsky-db1027.netlify.app/] 👋
+### Hi there, I'm [Thomas Plantin] (website) 👋
 
 
 [![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lucid-minsky-db1027.netlify.app/)
@@ -36,6 +36,8 @@
     <img align="left" alt="Terminal" width="48px" src="images/terminal.png" />
 </div>
 
+<br />
+<br />
 <br />
 <br />
 
