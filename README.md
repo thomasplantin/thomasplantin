@@ -13,26 +13,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Linux" width="50px" src="images/linux.png" />
-<img align="left" alt="Python" width="50px" src="images/python.png" />
-<img align="left" alt="Java" width="50px" src="images/java.png" />
-<img align="left" alt="C" width="50px" src="images/c.png" />
-<img align="left" alt="CUDA" width="50px" src="images/CUDA.png" />
-<img align="left" alt="HTML5" width="50px" src="images/html5.png" />
-<img align="left" alt="CSS3" width="50px" src="images/css3.png" />
-<img align="left" alt="JavaScript" width="50px" src="images/javascript.png" />
-<img align="left" alt="Node.js" width="50px" src="images/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="images/vscode.png" />
-<img align="left" alt="Git" width="50px" src="images/git.png" />
-<img align="left" alt="GitHub" width="50px" src="images/github.png" />
-<img align="left" alt="Terminal" width="50px" src="images/terminal.png" />
+<img align="left" alt="Linux" width="48px" src="images/linux.png" />
+<img align="left" alt="Python" width="48px" src="images/python.png" />
+<img align="left" alt="Java" width="48px" src="images/java.png" />
+<img align="left" alt="C" width="48px" src="images/c.png" />
+<img align="left" alt="CUDA" width="48px" src="images/CUDA.png" />
+<img align="left" alt="HTML5" width="48px" src="images/html5.png" />
+<img align="left" alt="CSS3" width="48px" src="images/css3.png" />
+<img align="left" alt="JavaScript" width="48px" src="images/javascript.png" />
+<img align="left" alt="Node.js" width="48px" src="images/nodejs.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="images/vscode.png" />
+<img align="left" alt="Git" width="48px" src="images/git.png" />
+<img align="left" alt="GitHub" width="48px" src="images/github.png" />
+<img align="left" alt="Terminal" width="48px" src="images/terminal.png" />
 
 <br />
 <br />
