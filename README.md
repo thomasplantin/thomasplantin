@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about everything and anything that is useful and fun
 - 👨‍💻 👩‍💻 I’m looking to collaborate with other engineers and developers
 - 🥅 2021 Goals: Find a Software Engineering job that I am passionate about, and work with great people
-- ⚡ Fun fact: I love cooking, traveling, and traveling
+- ⚡ Fun fact: I love cooking, playing tennis, and traveling
 
 ### Connect with me:
 
