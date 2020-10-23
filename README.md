@@ -1,9 +1,9 @@
-### Hi there, I'm Thomas Plantin 👋
+## Hi there, I'm Thomas Plantin 👋
 
 
 [![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lucid-minsky-db1027.netlify.app/)
 
-## I'm a Student, Developer, and Quick Learner!!
+### I'm a Student, Developer, and Quick Learner!!
 
 - 🔭 I’m a Masters student in Software Engineering & Systems at the University of Texas at Austin
 - 🌱 I’m currently learning about everything and anything that is useful and fun
