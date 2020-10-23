@@ -1,4 +1,4 @@
-### Hi there, I'm [Thomas Plantin] [website] 👋
+### Hi there, I'm [Thomas Plantin] (website) 👋
 
 
 [![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
