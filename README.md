@@ -20,19 +20,19 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Linux" width="26px" src="images/linux.png" />
-<img align="left" alt="Python" width="26px" src="images/python.png" />
-<img align="left" alt="Java" width="26px" src="images/java.png" />
-<img align="left" alt="C" width="26px" src="images/c.png" />
-<img align="left" alt="CUDA" width="26px" src="images/CUDA.png" />
-<img align="left" alt="HTML5" width="26px" src="images/html5.png" />
-<img align="left" alt="CSS3" width="26px" src="images/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="images/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="images/vscode.png" />
-<img align="left" alt="Git" width="26px" src="images/git.png" />
-<img align="left" alt="GitHub" width="26px" src="images/github.png" />
-<img align="left" alt="Terminal" width="26px" src="images/terminal.png" />
+<img align="left" alt="Linux" width="50px" src="images/linux.png" />
+<img align="left" alt="Python" width="50px" src="images/python.png" />
+<img align="left" alt="Java" width="50px" src="images/java.png" />
+<img align="left" alt="C" width="50px" src="images/c.png" />
+<img align="left" alt="CUDA" width="50px" src="images/CUDA.png" />
+<img align="left" alt="HTML5" width="50px" src="images/html5.png" />
+<img align="left" alt="CSS3" width="50px" src="images/css3.png" />
+<img align="left" alt="JavaScript" width="50px" src="images/javascript.png" />
+<img align="left" alt="Node.js" width="50px" src="images/nodejs.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="images/vscode.png" />
+<img align="left" alt="Git" width="50px" src="images/git.png" />
+<img align="left" alt="GitHub" width="50px" src="images/github.png" />
+<img align="left" alt="Terminal" width="50px" src="images/terminal.png" />
 
 <br />
 <br />
@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Thomas Plantin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Thomas Plantin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thomasplantin&show_icons=true&hide_border=true" />
 
 </details>
 
