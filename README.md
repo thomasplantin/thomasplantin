@@ -1,4 +1,4 @@
-### Hi there, I'm [Thomas Plantin] (website) 👋
+### Hi there, I'm [Thomas Plantin] (https://lucid-minsky-db1027.netlify.app/) 👋
 
 
 [![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lucid-minsky-db1027.netlify.app/)
@@ -42,9 +42,9 @@
 <br />
 
 <details>
-    <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
-    <img align="left" alt="Thomas Plantin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thomasplantin&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thomasplantin&show_icons=true&hide_border=true" />
 
 </details>
 
