@@ -1,7 +1,7 @@
 ### Hi there, I'm [Thomas Plantin] [website] 👋
 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
+[![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
 
 ## I'm a Student, Developer, and Quick Learner!!
 
@@ -19,30 +19,32 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Linux" width="48px" src="images/linux.png" />
-<img align="left" alt="Python" width="48px" src="images/python.png" />
-<img align="left" alt="Java" width="48px" src="images/java.png" />
-<img align="left" alt="C" width="48px" src="images/c.png" />
-<img align="left" alt="CUDA" width="48px" src="images/CUDA.png" />
-<img align="left" alt="HTML5" width="48px" src="images/html5.png" />
-<img align="left" alt="CSS3" width="48px" src="images/css3.png" />
-<img align="left" alt="JavaScript" width="48px" src="images/javascript.png" />
-<img align="left" alt="Node.js" width="48px" src="images/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="48px" src="images/vscode.png" />
-<img align="left" alt="Git" width="48px" src="images/git.png" />
-<img align="left" alt="GitHub" width="48px" src="images/github.png" />
-<img align="left" alt="Terminal" width="48px" src="images/terminal.png" />
+<div>
+    <img align="left" alt="Linux" width="48px" src="images/linux.png" />
+    <img align="left" alt="Python" width="48px" src="images/python.png" />
+    <img align="left" alt="Java" width="48px" src="images/java.png" />
+    <img align="left" alt="C" width="48px" src="images/c.png" />
+    <img align="left" alt="CUDA" width="48px" src="images/CUDA.png" />
+    <img align="left" alt="HTML5" width="48px" src="images/html5.png" />
+    <img align="left" alt="CSS3" width="48px" src="images/css3.png" />
+    <img align="left" alt="JavaScript" width="48px" src="images/javascript.png" />
+    <img align="left" alt="Node.js" width="48px" src="images/nodejs.png" />
+    <img align="left" alt="Visual Studio Code" width="48px" src="images/vscode.png" />
+    <img align="left" alt="Git" width="48px" src="images/git.png" />
+    <img align="left" alt="GitHub" width="48px" src="images/github.png" />
+    <img align="left" alt="Terminal" width="48px" src="images/terminal.png" />
+</div>
 
 <br />
 <br />
+<div>
+    <details>
+    <summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Thomas Plantin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thomasplantin&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="Thomas Plantin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thomasplantin&show_icons=true&hide_border=true" />
-
-</details>
+    </details>
+</div>
 
 [website]: https://lucid-minsky-db1027.netlify.app/
 [linkedin]: https://www.linkedin.com/in/thomas-plantin/
