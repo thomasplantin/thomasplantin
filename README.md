@@ -1,7 +1,7 @@
 ## Hi there, I'm Thomas Plantin 👋
 
 
-[![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lucid-minsky-db1027.netlify.app/)
+[![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.thomasplantin.com/)
 
 ### I'm a Student, Developer, and Quick Learner!!
 
