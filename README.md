@@ -48,5 +48,5 @@
 
 </details>
 
-[website]: https://lucid-minsky-db1027.netlify.app/
+[website]: https://www.thomasplantin.com/
 [linkedin]: https://www.linkedin.com/in/thomas-plantin/
