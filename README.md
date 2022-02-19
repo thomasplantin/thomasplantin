@@ -8,7 +8,7 @@
 - 🔭 I’m a Masters student in Software Engineering & Systems at the University of Texas at Austin
 - 🌱 I’m currently learning about everything and anything that is useful and fun
 - 👨‍💻 👩‍💻 I’m looking to collaborate with other engineers and developers
-- 🥅 2021 Goals: Find a Software Engineering job that I am passionate about, and work with great people
+- 🥅 2022 Goals: Grow my expertise on the job as a Software Engineer
 - ⚡ Fun fact: I love cooking, playing tennis, and traveling
 
 ### Connect with me:
