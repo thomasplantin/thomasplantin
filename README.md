@@ -6,7 +6,7 @@
 ### I'm a Software Engineer!
 
 - 💻 I work as a Software Engineer for Amazon Pharmacy
-- 🔭 I studied my Masters in Software Engineering & Systems at the University of Texas at Austin
+- 🔭 I studied my Masters in Software Engineering & Systems at the University of Texas at Austin 🤘
 - 🌱 I’m currently learning about blockchain technologies
 - 👨‍💻 👩‍💻 I’m looking to collaborate with other engineers and developers
 - 🥅 2023 Goals: Develop my first web 3.0 decentralized application
