@@ -3,17 +3,18 @@
 
 [![website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.thomasplantin.com/)
 
-### I'm a Student, Developer, and Quick Learner!!
+### I'm a Software Engineer!
 
-- 🔭 I’m a Masters student in Software Engineering & Systems at the University of Texas at Austin
-- 🌱 I’m currently learning about everything and anything that is useful and fun
+- 💻 I work as a Software Engineer for Amazon Pharmacy
+- 🔭 I studied my Masters in Software Engineering & Systems at the University of Texas at Austin
+- 🌱 I’m currently learning about blockchain technologies
 - 👨‍💻 👩‍💻 I’m looking to collaborate with other engineers and developers
-- 🥅 2022 Goals: Grow my expertise on the job as a Software Engineer
+- 🥅 2023 Goals: Develop my first web 3.0 decentralized application
 - ⚡ Fun fact: I love cooking, playing tennis, and traveling
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="50px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
